@@ -1,0 +1,60 @@
+{
+  "uid" : "7ab288b62c62ea02",
+  "name" : "test_A_001",
+  "fullName" : "org.example.SmokeTests.test_A_001",
+  "historyId" : "6f16419c92521e928e4a26a9711a5df7",
+  "time" : {
+    "start" : 1710856379125,
+    "stop" : 1710856379125,
+    "duration" : 0
+  },
+  "description" : "First test for testing some important",
+  "descriptionHtml" : "<p>First test for testing some important</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.SmokeTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_A_001"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.SmokeTests"
+  }, {
+    "name" : "host",
+    "value" : "monster"
+  }, {
+    "name" : "thread",
+    "value" : "25980@monster.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "Smoke tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ab288b62c62ea02.json",
+  "parameterValues" : [ ]
+}

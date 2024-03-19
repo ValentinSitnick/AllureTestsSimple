@@ -1,0 +1,251 @@
+[ {
+  "uid" : "2dd2ecf6a81261c",
+  "name" : "test_A_004",
+  "time" : {
+    "start" : 1710856379117,
+    "stop" : 1710856379118,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96da2c229d4df463",
+  "name" : "Сценарий для проверки чего-нибудь",
+  "time" : {
+    "start" : 1710856379133,
+    "stop" : 1710856379133,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6406fc3f67e61ee",
+  "name" : "test_B_005",
+  "time" : {
+    "start" : 1710856379104,
+    "stop" : 1710856379105,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99a217ace5ec8e53",
+  "name" : "test_C_005",
+  "time" : {
+    "start" : 1710856379089,
+    "stop" : 1710856379090,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ab288b62c62ea02",
+  "name" : "test_A_001",
+  "time" : {
+    "start" : 1710856379125,
+    "stop" : 1710856379125,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6612fe2139fe7f17",
+  "name" : "test_A_002",
+  "time" : {
+    "start" : 1710856379128,
+    "stop" : 1710856379128,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d32970b1f26cb3d",
+  "name" : "test_A_003",
+  "time" : {
+    "start" : 1710856379130,
+    "stop" : 1710856379130,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3cdf4e31f498887",
+  "name" : "test_A_001",
+  "time" : {
+    "start" : 1710856379112,
+    "stop" : 1710856379113,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "373935fbba65c78c",
+  "name" : "test_D_005",
+  "time" : {
+    "start" : 1710856379071,
+    "stop" : 1710856379071,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "640c9b93d626a4b",
+  "name" : "test_C_004",
+  "time" : {
+    "start" : 1710856379087,
+    "stop" : 1710856379087,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f02580bf109d4150",
+  "name" : "test_A_004",
+  "time" : {
+    "start" : 1710856379132,
+    "stop" : 1710856379132,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6ef47110b9782a8",
+  "name" : "test_B_003",
+  "time" : {
+    "start" : 1710856379100,
+    "stop" : 1710856379100,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "168119adbd2f366e",
+  "name" : "test_C_002",
+  "time" : {
+    "start" : 1710856379080,
+    "stop" : 1710856379081,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "639d3a0b14d082fc",
+  "name" : "test_A_003",
+  "time" : {
+    "start" : 1710856379115,
+    "stop" : 1710856379115,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c3aca0f56056b87",
+  "name" : "test_C_001",
+  "time" : {
+    "start" : 1710856379078,
+    "stop" : 1710856379078,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5743e2ea7d12f4bf",
+  "name" : "test_B_004",
+  "time" : {
+    "start" : 1710856379102,
+    "stop" : 1710856379103,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64f113f18fb8bfdf",
+  "name" : "Tests for BF STS-99999",
+  "time" : {
+    "start" : 1710856378982,
+    "stop" : 1710856378988,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa4ba31f15168f90",
+  "name" : "test_D_003",
+  "time" : {
+    "start" : 1710856379066,
+    "stop" : 1710856379067,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6af53a80057f7a0",
+  "name" : "test_B_001",
+  "time" : {
+    "start" : 1710856379095,
+    "stop" : 1710856379095,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a526d80c691a81f",
+  "name" : "test_D_004",
+  "time" : {
+    "start" : 1710856379069,
+    "stop" : 1710856379069,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a4218de959a2cf0",
+  "name" : "test_A_002",
+  "time" : {
+    "start" : 1710856379114,
+    "stop" : 1710856379114,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c38f9908d02a404",
+  "name" : "test_C_003",
+  "time" : {
+    "start" : 1710856379082,
+    "stop" : 1710856379083,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df054a277f346cd",
+  "name" : "test_B_002",
+  "time" : {
+    "start" : 1710856379097,
+    "stop" : 1710856379098,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c497d10a8e737ba2",
+  "name" : "Сценарий для проверки чего-нибудь",
+  "time" : {
+    "start" : 1710856379119,
+    "stop" : 1710856379119,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc6f824c5905a067",
+  "name" : "test_D_002",
+  "time" : {
+    "start" : 1710856379063,
+    "stop" : 1710856379063,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

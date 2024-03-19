@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Smoke tests","","","0","0","10","0","0"
+"Regression tests","","","0","0","5","0","0"
+"New functionality tests","","","0","0","5","0","0"
+"Tests for bugfixes","","","0","0","5","0","0"

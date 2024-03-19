@@ -1,0 +1,58 @@
+{
+  "uid" : "5743e2ea7d12f4bf",
+  "name" : "test_B_004",
+  "fullName" : "org.example.RegressionTests.test_B_004",
+  "historyId" : "a8034c6c88e5c5fd8b3740e9ed6ef06a",
+  "time" : {
+    "start" : 1710856379102,
+    "stop" : 1710856379103,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.RegressionTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_B_004"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.RegressionTests"
+  }, {
+    "name" : "host",
+    "value" : "monster"
+  }, {
+    "name" : "thread",
+    "value" : "25980@monster.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "Regression tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5743e2ea7d12f4bf.json",
+  "parameterValues" : [ ]
+}

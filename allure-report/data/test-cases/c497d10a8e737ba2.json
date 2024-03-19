@@ -1,0 +1,60 @@
+{
+  "uid" : "c497d10a8e737ba2",
+  "name" : "Сценарий для проверки чего-нибудь",
+  "fullName" : "org.example.Smoke2Tests.test_A_005",
+  "historyId" : "d455ac846820edd6c9d843c8878bf287",
+  "time" : {
+    "start" : 1710856379119,
+    "stop" : 1710856379119,
+    "duration" : 0
+  },
+  "description" : "Fifth test for testing some important",
+  "descriptionHtml" : "<p>Fifth test for testing some important</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.Smoke2Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_A_005"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.Smoke2Tests"
+  }, {
+    "name" : "host",
+    "value" : "monster"
+  }, {
+    "name" : "thread",
+    "value" : "25980@monster.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "Smoke tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c497d10a8e737ba2.json",
+  "parameterValues" : [ ]
+}
